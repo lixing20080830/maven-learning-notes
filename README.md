@@ -7,4 +7,4 @@
 5、mvn install 将项目生成 jar 包放在仓库中，以便别的模块调用<br>
 
 参考资料：https://www.cnblogs.com/ysocean/p/7416307.html<br>
-        https://www.cnblogs.com/wkrbky/p/6352188.html<br>
+         https://www.cnblogs.com/wkrbky/p/6352188.html<br>
