@@ -9,4 +9,14 @@
 参考资料：https://www.cnblogs.com/ysocean/p/7416307.html<br>
          https://www.cnblogs.com/wkrbky/p/6352188.html<br>
          
-Maven Repository地址：http://mvnrepository.com/
+Maven Repository地址：http://mvnrepository.com/<br>
+
+
+Maven项目：@Override is not allowed when implement interface method<br>
+由于我的项目是maven类型项目，所以在pox.xml的标签中添加链接中的代码，即可解决问题。<br>
+https://blog.csdn.net/chengyuqiang/article/details/54600499 <br>
+
+### MySQL数据库信息
+我的本地数据库信息数据库：<br>
+用户名：root<br>
+数据库密码：lixing20080830<br>
